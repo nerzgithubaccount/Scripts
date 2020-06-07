@@ -91,7 +91,7 @@ finity.dark_theme = { -- dark
 	button_background_hover = Color3.fromRGB(143, 255, 193),
 	button_background_down = Color3.fromRGB(27,27,27),
 	
-	scrollbar_color = Color3.fromRGB(253, 253, 150),
+	scrollbar_color = Color3.fromRGB(67, 148, 103),
 }
 
 setmetatable(finity.gs, {
