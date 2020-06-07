@@ -59,12 +59,12 @@ finity.theme = { -- light
 }
 
 finity.dark_theme = { -- dark
-	main_container = Color3.fromRGB(32, 32, 33),
-	separator_color = Color3.fromRGB(253, 253, 150),
+	main_container = Color3.fromRGB(27, 27, 27),
+	separator_color = Color3.fromRGB(125, 255, 183),
 
 	text_color = Color3.fromRGB(253, 253, 150),
 
-	category_button_background = Color3.fromRGB(63, 62, 65),
+	category_button_background = Color3.fromRGB(67, 148, 103),
 	category_button_border = Color3.fromRGB(72, 71, 74),
 
 	checkbox_checked = Color3.fromRGB(253, 253, 150),
