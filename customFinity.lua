@@ -26,12 +26,12 @@ finity.theme = { -- light
 	main_container = Color3.fromRGB(249, 249, 255),
 	separator_color = Color3.fromRGB(223, 219, 228),
 
-	text_color = Color3.fromRGB(96, 96, 96),
+	text_color = Color3.fromRGB(253, 253, 150),
 
 	category_button_background = Color3.fromRGB(223, 219, 228),
-	category_button_border = Color3.fromRGB(200, 196, 204),
+	category_button_border = Color3.fromRGB(253, 253, 150),
 
-	checkbox_checked = Color3.fromRGB(114, 214, 112),
+	checkbox_checked = Color3.fromRGB(253, 253, 150),
 	checkbox_outer = Color3.fromRGB(198, 189, 202),
 	checkbox_inner = Color3.fromRGB(249, 239, 255),
 
@@ -60,19 +60,19 @@ finity.theme = { -- light
 
 finity.dark_theme = { -- dark
 	main_container = Color3.fromRGB(32, 32, 33),
-	separator_color = Color3.fromRGB(63, 63, 65),
+	separator_color = Color3.fromRGB(253, 253, 150),
 
-	text_color = Color3.fromRGB(206, 206, 206),
+	text_color = Color3.fromRGB(253, 253, 150),
 
 	category_button_background = Color3.fromRGB(63, 62, 65),
 	category_button_border = Color3.fromRGB(72, 71, 74),
 
-	checkbox_checked = Color3.fromRGB(132, 255, 130),
+	checkbox_checked = Color3.fromRGB(253, 253, 150),
 	checkbox_outer = Color3.fromRGB(84, 81, 86),
 	checkbox_inner = Color3.fromRGB(132, 132, 136),
 
 	slider_color = Color3.fromRGB(177, 177, 177),
-	slider_color_sliding = Color3.fromRGB(132, 255, 130),
+	slider_color_sliding = Color3.fromRGB(253, 253, 150),
 	slider_background = Color3.fromRGB(88, 84, 90),
 	slider_text = Color3.fromRGB(177, 177, 177),
 
